@@ -1,0 +1,26 @@
+{
+  "records.witherstorm": {
+    "sounds": [
+      {
+        "name": "everhaul:records/witherstorm",
+        "stream": true
+      }
+    ]
+  },
+  "records.furelise": {
+    "sounds": [
+      {
+        "name": "everhaul:records/furelise",
+        "stream": true
+      }
+    ]
+  },
+  "records.reddoinking": {
+    "sounds": [
+      {
+        "name": "everhaul:records/reddoinking",
+        "stream": true
+      }
+    ]
+  }
+}
